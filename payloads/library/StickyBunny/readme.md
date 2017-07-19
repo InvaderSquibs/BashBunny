@@ -1,8 +1,8 @@
-#StickyBunny
-*Author:	Squibs
-*Version:	1.3
-*Target:	Windows
-*Time:		19s
+# StickyBunny
+* Author:	Squibs
+* Version:	1.3
+* Target:	Windows
+* Time:		19s
 
 ## Description
 
